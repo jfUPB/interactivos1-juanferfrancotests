@@ -1,12 +1,14 @@
-#### Esta es mi solución a esta actividad 
+#### Mi solución a la actividad
 
-bñlsdkflksjdflkasjdfkñhasjdlkfñjañslkdjhfalksjdfklajsdklfjasdf
-asdflkajsdfkjhasdkjfhaslkjdhflkjashdfkljashdkjflhaskjdfhaklsjdhf
-asdkfjhasdkfjhaskljdhfaljskhdfjlkasdhflkjashdfjklashdfjklsadhfkljsd
+1111111111111111111111111111111111111  
+2222222222222222222222222222222222222  
+3333333333333333333333333333333333333  
 
 ``` js
 function setup(){
 }
+
 function draw(){
 }
 ```
+
